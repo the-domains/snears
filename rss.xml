@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[SNEARS]]></title>
+        <description><![CDATA[SNEARS]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 25 Apr 2016 02:54:19 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>As American as breakfast for dinner.</p>]]></description>
+            <link>undefinedas-american-as-breakfast-for-dinner/index.html</link>
+            <guid isPermaLink="false">ce570fa3-dea8-44b2-bcea-c2e5a1ce7a43</guid>
+            <pubDate>Mon, 25 Apr 2016 02:53:45 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
