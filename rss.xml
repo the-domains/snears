@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[SNEARS]]></title>
         <description><![CDATA[SNEARS]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/snears/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Apr 2016 02:54:19 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 25 Apr 2016 03:03:31 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/snears/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>As American as breakfast for dinner.</p>]]></description>
-            <link>undefinedas-american-as-breakfast-for-dinner/index.html</link>
+            <link>https://thegrid.ai/snears/as-american-as-breakfast-for-dinner/index.html</link>
             <guid isPermaLink="false">ce570fa3-dea8-44b2-bcea-c2e5a1ce7a43</guid>
-            <pubDate>Mon, 25 Apr 2016 02:53:45 GMT</pubDate>
+            <pubDate>Mon, 25 Apr 2016 03:03:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
