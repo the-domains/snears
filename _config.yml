@@ -1,7 +1,7 @@
 name: SNEARS
 favicon: null
-layout_spectrum: 0.09780797199346125
-typography_spectrum: 0.25023432774469256
+layout_spectrum: 0.8947
+typography_spectrum: 0.64998
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
-  brandStrength: 0.6536542039830238
-  lightness: 0.21151145338080823
-  saturation: 0.5622553848661482
-  rhythmicContrast: 0.25622110697440803
+    - '#01050e'
+    - '#5f6367'
+    - '#95a3b4'
+    - '#8fd5d5'
+    - '#f6f8f9'
+  brandStrength: 0.25
+  lightness: 0.5625
+  saturation: 0.625
+  rhythmicContrast: 0.5
 purpose: []
